@@ -1,5 +1,9 @@
 # ui_practice
 
+| Name          | Career Path |                         e-mail |
+| ------------- | :---------: | -----------------------------: |
+| Estrella Poot |   Flutter   | Estrella.Poot@itksquare.edu.mx |
+
 ### Practice 1
 
 ![Practice 1](./screenshots/practice_1.png)
