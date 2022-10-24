@@ -61,7 +61,7 @@ class Practice18 extends StatelessWidget {
                         width: 10,
                       ),
                       const Text(
-                        'Continue with Google',
+                        'Continue with Facebook',
                         style: TextStyle(
                           fontSize: 30,
                           fontWeight: FontWeight.w500,
